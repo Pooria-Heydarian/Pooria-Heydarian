@@ -12,14 +12,12 @@ A Computer Science student, where I'm embarking on an exciting journey into the 
 
 📫 Let's connect and collaborate – drop me a message and let's dive into the exciting world of coding, AI, and all things tech!
 
----
 
 ## 🧰 Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt ="CSharp Logo" width ="60px"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="60px"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="60px"> <img src= "https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="60px"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="60px"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux Logo" width="60px"> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter Logo" width="60px"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width = "60px"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Maltab Logo" width="60px"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++ Logo" width="60px"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="60px"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="Latex" width="60px">
 
----
 
 ## 📈 My GitHub Stats
 
