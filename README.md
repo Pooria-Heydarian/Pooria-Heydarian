@@ -21,10 +21,5 @@ align="center" src="https://github.com/devicons/devicon/blob/master/icons/numpy/
 
 
 ## 📈 My GitHub Stats
+<img width= "49%" align="center" src="https://github-readme-stats.vercel.app/api?username=pooria-heydarian&theme=dark&" /> <img width= "49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pooria-heydarian&theme=dark&layout=compact&langs_count=8&card_width=320" />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width= "49%" align="center" src="https://github-readme-stats.vercel.app/api?username=pooria-heydarian&theme=dark&" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width= "49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pooria-heydarian&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
